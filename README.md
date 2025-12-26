@@ -1,5 +1,5 @@
 # GDAC Capstone Project: Bellabeat with R
-This repository contains files related to the Capstone Case Study for the Google Data Analytics Professional Certificate, completed by **Alifia Ganjaraharja**. It includes Bellabeat.Rmd code to analyze the usage data from one of Bellabeat's products, Bellabeat.html, and a few CSV files to understand how customers are using their smart devices, and also to gain insights.
+This repository contains files related to the Capstone Case Study for the Google Data Analytics Professional Certificate, completed by **Alifia Ganjaraharja** to analyze the usage data from one of Bellabeat's products and to understand how customers are using their smart devices, and also to gain insights.
 
 Skills and Tools Used During the Case Study:
 1. R Programming (RStudio)
